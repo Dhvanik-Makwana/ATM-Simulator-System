@@ -18,7 +18,7 @@ design the GUI for our application
 This library provided the means to connect our application to the local MySQL server running
 on the system.
 
-## Technologies Used ##
+## Technologies Used: ##
 1.Apache NetBeans IDE 12.5: <br/>
 
 NetBeans is an integrated development environment for Java. NetBeans allows applications to
